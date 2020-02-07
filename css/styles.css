@@ -23,3 +23,17 @@
     
     padding-left: 38%;
 }
+
+.tri{
+    font-style: italic;
+    font-family: cursive;
+}
+
+.tro{
+    text-align: center;
+}
+
+@media screen and (min-width: 480px) {
+    
+}
+  
