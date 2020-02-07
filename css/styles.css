@@ -17,7 +17,7 @@
   padding: 26px;
   
   margin: 10px;
-  background-color:white;
+  background-color:rgb(210, 209, 212);
 }
 .column2{
     width: 501px;
@@ -25,7 +25,7 @@
   padding: 26px;
   
   margin: 10px;
-  background-color:white;
+  background-color:rgb(210, 209, 212);
 }
 .column3{
     width: 501px;
@@ -33,7 +33,7 @@
   padding: 26px;
   
   margin: 10px;
-  background-color:white;
+  background-color:rgb(210, 209, 212);
 }
   .column1 img {
       float: left;
@@ -60,10 +60,11 @@
     color:Red;
 }
 .unimportant{
-    color:purple;
+    color:rgb(20, 71, 4);
 }
 body{
     background-image: url("../images/pexels-photo-531880.jpeg");
+    background-repeat: round;
 }
 
 
@@ -72,4 +73,4 @@ body{
 @media screen and (min-width: 480px) {
     
 }
-  
+
