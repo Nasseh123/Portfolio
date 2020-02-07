@@ -32,6 +32,15 @@
 .tro{
     text-align: center;
 }
+.important{
+    color:Red;
+}
+.unimportant{
+    color:blue;
+}
+
+
+
 
 @media screen and (min-width: 480px) {
     
