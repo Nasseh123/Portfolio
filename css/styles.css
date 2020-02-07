@@ -1,5 +1,5 @@
 .column{
-    width: 350px;
+    width: 501px;
     float: left;
     border-left: 2px solid red;
   border-right: 4px solid blue;
@@ -9,4 +9,17 @@
   
   margin: 10px;
   background-color:white;
+}
+
+  .column img {
+      float: left;
+  }
+
+.Nas{
+    font-size: 24PX;
+}
+
+.port{
+    
+    padding-left: 38%;
 }
