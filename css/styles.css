@@ -64,7 +64,8 @@
 }
 body{
     background-image: url("../images/pexels-photo-531880.jpeg");
-    background-repeat: round;
+    background-repeat:repeat;
+    font-size: 15px;
 }
 
 
