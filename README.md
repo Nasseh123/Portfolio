@@ -6,7 +6,7 @@ Manasseh Bundi
 ## Description
 My Personal Portfolio
 ## Setup/Installation Requirements
-Clone this repo 
+Clone this repo git clone https://github.com/Nasseh123/independent-project-week1.git
 
 ## Technologies Used
 .Css
