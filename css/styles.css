@@ -14,12 +14,31 @@
   padding: 10px;
 }
 .column11{
-  width: 400px;
+  border-radius:30px ;
   float: left;
   margin: 10px;
+  
  
 }
-
+#hh{
+  /* height:240px; */
+  border-radius: 30px;
+}
+#hhh{
+  margin: 10px;
+}
+#lastfold{
+  background-image: url("../images/photo-of-night-sky-1025469\ \(compressed\).jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  /* width: 100%; */
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  font-weight: 900px;
+  font-size: 30px;
+}
 
 /* .column2{
   width: 501px;
