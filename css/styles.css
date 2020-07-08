@@ -1,18 +1,15 @@
 #firstfold{
   background-image: url("../images/photo-of-night-sky-1025469\ \(compressed\).jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   height: 400px;
-  /* width: 100%; */
   text-align: center;
   color: white;
-  padding-top: 150px;
+  padding-top: 90px;
+  font-family: 'Philosopher', sans-serif;
 }
-.mydetails{
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
+
 .column11{
   border-radius:30px ;
   float: left;
@@ -23,6 +20,9 @@
 #hh{
   /* height:240px; */
   border-radius: 30px;
+margin: 10PX;
+  width: 280px;
+  height: 300px;
 }
 #hhh{
   margin: 10px;
@@ -31,88 +31,21 @@
   background-image: url("../images/photo-of-night-sky-1025469\ \(compressed\).jpg");
   background-size: cover;
   background-position: center;
-  height: 300px;
-  /* width: 100%; */
+  
+
   text-align: center;
   color: white;
+  background-color: white;
   padding-top: 50px;
   font-weight: 900px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
-/* .column2{
-  width: 501px;
-  float: left;
-padding: 26px;
 
-margin: 10px;
-background-color:rgb(210, 209, 212);
-}
-.column3{
-  width: 501px;
-  float: left;
-padding: 26px;
-
-margin: 10px;
-background-color:rgb(210, 209, 212);
-} */
-/* .column1 img {
-    float: left;
-}
-.column4{
-  width: 1870px;
-  float: left;
-  margin-left: 40px;
-  border-left: 2px solid red;
-border-right: 4px solid blue;
-border-top: 6px solid orange;
-border-bottom: 8px solid black;
-padding:px;
-
-margin: 10px;
-background-color:rgb(90, 228, 238);
-text-align: center;
-}
-.column5{
-  width: 1870px;
-  float: left;
-  margin-left: 10px;
-  margin-right: 10px;
-padding: px;
-
-margin: 10px;
-background-color:rgb(83, 199, 228);
-text-align: center;
-}
-
-.Nas{
-  font-size: 24PX;
-}
-
-.port{
-  
-  padding-left: 38%;
-  color: white;
-}
-
-.tri{
-  font-style: italic;
-  font-family: cursive;
-}
-
-.tro{
-  text-align: center;
-}
-.important{
-  color:Red;
-}
-.unimportant{
-  color:rgb(20, 71, 4);
-} */
 body{
-  /* background-image: url("../images/COLOR_POP.jpg");
-  background-size: cover; */
+ 
   font-size: 15px;
+  font-family: 'Philosopher', sans-serif;
 }
 
 
